@@ -1,9 +1,0 @@
-name of dance styles
-clasical
-freestyle
-salsa
-contemprary
-robotics
-hiphop
-belly
-katthak
